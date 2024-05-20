@@ -1,2 +1,2 @@
-This repository was created just to check if everything is workinh fine.
+This repository was created just to check if everything is working fine.
 Nothing useful is stored here.
